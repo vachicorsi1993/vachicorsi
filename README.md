@@ -1,2 +1,1 @@
-# vachicorsi
-este es un repositorio de prueba
+este rpoyecto es una prueba de como crear un repositorio
